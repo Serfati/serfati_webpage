@@ -43,7 +43,7 @@ body{
            
 .navbar {
   overflow: hidden;
-  background-color: #8b0307;
+  background-color: #4D6466;
   position: fixed;
   z-index: 10;
   top: 0;
@@ -55,15 +55,15 @@ body{
   font-family: "Fira Code", monospace;
   float: left;
   display: block;
-  color: #e1f5ff;
+  color: #edfffa;
   padding: 1px 30px;
   text-decoration: none;
   font-size: 14.5px;
           }
             
 .navbar a:hover {
-  background: #e1f5ff;
-  color: #8b0307;
+  background: #B7D8D6;
+  color: #8d2d2b;
 }
             
 .main {
@@ -100,8 +100,8 @@ body{
         }     
 
         table.blueTable {
-            border: 1px solid #1C6EA4;
-            background-color: #EEEEEE;
+            border: 1px solid #3c5052;
+            background-color: #f9fee9;
             width: 80%;
             text-align: left;
             border-collapse: collapse;
@@ -115,21 +115,21 @@ body{
             font-size: 13px;
           }
           table.blueTable tr:nth-child(even) {
-            background: #D0E4F5;
+            background: #edfffa;
           }
           table.blueTable thead {
-            background: #1C6EA4;
-            background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
-            background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
-            background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
-            border-bottom: 2px solid #444444;
+            background: #afd9d5;
+            background: -moz-linear-gradient(top, #aed8d4 0%, #6f9e9d 66%, #4c6467 100%);
+            background: -webkit-linear-gradient(top, #aed8d4 0%, #6f9e9d 66%, #4c6467 100%);
+            background: linear-gradient(to bottom, #aed8d4 0%, #6f9e9d 66%, #4c6467 100%);
+            border-bottom: 2px solid #3c5052;
         
           }
           table.blueTable thead th {
             font-family: "Fira Code", monospace;
             font-size: 15px;
             font-weight: bold;
-            color: #FFFFFF;
+            color: #710500;
             text-align: center;
             border-left: 2px solid #D0E4F5;
             width: 0.1%
@@ -161,12 +161,6 @@ iframe {
   width: 100%;
   min-height: 100%;
   padding: 10px;
-
-  background: #007bb5;
-  background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-  background: -o-linear-gradient(left, #0072ff, #00c6ff);
-  background: -moz-linear-gradient(left, #0072ff, #00c6ff);
-  background: linear-gradient(left, #0072ff, #00c6ff);
 
   display: -webkit-box;
   display: -webkit-flex;
