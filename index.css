@@ -1,8 +1,12 @@
 
 * {cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur), auto !important;}
 
-body{
-    background-image : url("https://cdn.hipwallpaper.com/i/63/94/VMYtdK.jpg");
+html{
+    background : url("https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-11-full.jpg")  no-repeat center center fixed; ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 .fa {
   padding: 15px;
