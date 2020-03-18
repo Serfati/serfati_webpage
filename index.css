@@ -1,0 +1,208 @@
+body{
+    background-image : url("https://cdn.hipwallpaper.com/i/63/94/VMYtdK.jpg");
+}
+.fa {
+  padding: 15px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  border-radius: 70px;
+  background: #3B5998;
+  color: white;
+}
+
+.fa-linkedin {
+  border-radius: 70px;
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  border-radius: 70px;
+  background: #b6853b;
+  color: white;
+}
+
+.fa-google {
+  border-radius: 70px;
+  background: #dd4b39;
+  color: white;
+}
+           
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  width: 100%;  
+              
+          }
+          
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: top;
+  padding: 1px 30px;
+  text-decoration: none;
+  font-size: 13px;
+          }
+            
+.navbar a:hover {
+  background: rgb(221, 217, 217);
+  color: black;
+                }
+            
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; 
+            }
+
+  .fancy {
+    line-height: 0.5;
+    text-align: center;
+        }
+        .fancy span {
+          display: inline-block;
+          position: relative;  
+        }
+        .fancy span:before,
+        .fancy span:after {
+          content: "";
+          position: absolute;
+          height: 10px;
+          border-bottom: 3px solid rgb(0, 0, 0);
+          border-top: 3px solid rgb(0, 0, 0);
+          top: 0;
+          width: 600px;
+        }
+        .fancy span:before {
+          right: 100%;
+          margin-right: 15px;
+        }
+        .fancy span:after {
+          left: 100%;
+          margin-left: 15px;
+        }     
+
+        table.blueTable {
+            border: 1px solid #1C6EA4;
+            background-color: #EEEEEE;
+            width: 80%;
+            text-align: left;
+            border-collapse: collapse;
+          }
+          table.blueTable td, table.blueTable th {
+            border: 2px solid #AAAAAA;
+            padding: 10px 10px;
+          }
+          table.blueTable tbody td {
+            font-size: 13px;
+          }
+          table.blueTable tr:nth-child(even) {
+            background: #D0E4F5;
+          }
+          table.blueTable thead {
+            background: #1C6EA4;
+            background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+            background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+            background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+            border-bottom: 2px solid #444444;
+        
+          }
+          table.blueTable thead th {
+            font-size: 15px;
+            font-weight: bold;
+            color: #FFFFFF;
+            text-align: center;
+            border-left: 2px solid #D0E4F5;
+            width: 0.1%
+          }
+          table.blueTable thead th:first-child {
+            border-left: none;
+          }
+          
+          table.blueTable tfoot td {
+            font-size: 14px;
+          }
+
+
+
+/*---------------------------------------------*/
+button {
+	outline: none !important;
+	border: none;
+	background: transparent;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+iframe {
+	border: none !important;
+}
+
+
+
+
+/*//////////////////////////////////////////////////////////////////
+[ Contact 1 ]*/
+
+.contact1 {
+  width: 100%;
+  min-height: 100%;
+  padding: 10px;
+
+  background: #007bb5;
+  background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+  background: -o-linear-gradient(left, #0072ff, #00c6ff);
+  background: -moz-linear-gradient(left, #0072ff, #00c6ff);
+  background: linear-gradient(left, #0072ff, #00c6ff);
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+ 
+  justify-content: center;
+  align-items: center;
+}
+
+
+.contact1-form-btn {
+  min-width: 100px;
+  height: 50px;
+  border-radius: 30px;
+  background: #007bb5;
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1;
+  color: #fff;
+ 
+  justify-content: center;
+  align-items: top;
+  padding: 0 10px;
+
+}
+
+.contact1-form-btn:hover {
+  background: #333333;
+}
+
+
+
+
