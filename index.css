@@ -1,3 +1,5 @@
+* {cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur), auto !important;}
+
 body{
     background-image : url("https://cdn.hipwallpaper.com/i/63/94/VMYtdK.jpg");
 }
@@ -41,7 +43,7 @@ body{
            
 .navbar {
   overflow: hidden;
-  background-color: #2A2E37;
+  background-color: #8b0307;
   position: fixed;
   z-index: 10;
   top: 0;
@@ -62,7 +64,7 @@ body{
 .navbar a:hover {
   background: #e1f5ff;
   color: #8b0307;
-                }
+}
             
 .main {
   padding: 16px;
@@ -196,5 +198,3 @@ iframe {
   color: #710500;
   border-radius: 20px;
 }
-
- * {cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur), auto !important;}
