@@ -1,7 +1,10 @@
 # Avihai-Serfati-personal web page
+This is a sample HTML5 and CSS3 individual project for Web Programming 
+A simple webpage to tell the world a little bit about myself
+
 name :Avihai Serfati
 ID : 204520803
-clone adress : https://github.com/serfati/
+clone address : https://github.com/serfati/
 url : https://serfati.github.io/serfati_webpage/
 
 ## License
