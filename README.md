@@ -11,7 +11,8 @@ A simple website to tell the world a little bit about myself
 - URL : [Click Here](https://serfati.github.io/serfati_webpage/)
 
 ####Screenshot
-![img](https://serving.photos.photobox.com/74945033527c030c1500eae64ac4fe210275733a3360cedab3a5ec1abc9ef09ff30c9752.jpg)
+
+![img](https://picresize.com/images/rsz_screenshot_from_2020-03-19_16-56-50.jpg)
 ## MIT License
 
 The following directories and their contents are Copyright Tom Preston-Werner.
