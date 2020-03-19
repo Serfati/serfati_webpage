@@ -1,11 +1,14 @@
 # AS-personal web page
-This is a sample HTML5 and CSS3 individual project for Web Programming 
+This is a sample HTML5 and CSS3 individual project for
+Web Development Enviroment Course 
 A simple website to tell the world a little bit about myself
 
-Name :Avihai Serfati
-ID : 204520803
-Clone Address : https://github.com/serfati/serfati_webpage/
-URL : https://serfati.github.io/serfati_webpage/
+- Name :Avihai Serfati
+- ID : 204520803
+
+- Clone Address : https://github.com/serfati/serfati_webpage/
+
+- URL : [Click Here](https://serfati.github.io/serfati_webpage/)
 
 ## MIT License
 
@@ -14,7 +17,7 @@ You may not reuse anything therein without my permission:
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and
 CSS as you please. If you do use them, a link back to
-https://serfati.github.io/serfati_webpage/ would be appreciated, but is not required.
+[HERE](https://serfati.github.io/serfati_webpage/) would be appreciated, but is not required.
 
 Copyright (c) 2020 Avihai Serfati
 
