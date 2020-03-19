@@ -10,7 +10,7 @@ A simple website to tell the world a little bit about myself
 
 - URL : [Click Here](https://serfati.github.io/serfati_webpage/)
 
-####Screenshot
+###Screenshot
 
 ![img](https://picresize.com/images/rsz_screenshot_from_2020-03-19_16-56-50.jpg)
 ## MIT License

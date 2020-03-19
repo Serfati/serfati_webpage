@@ -11,6 +11,12 @@ html {
   background-size: cover;
 }
 
+img {
+  width: auto;
+  max-height: auto;
+}
+
+
 .fa {
   padding: 15px;
   font-size: 20px;
@@ -25,7 +31,7 @@ html {
 }
 
 .fa-facebook {
-  border-radius: 5px;
+  border-radius: 50px;
   background: #3B5998;
   color: white;
 }
@@ -34,18 +40,28 @@ html {
   border-radius: 15px;
   background: #007bb5;
   color: white;
+  font-size: 20;
 }
 
 .fa-instagram {
-  border-radius: 10px;
-  background: #b6853b;
+  border-radius: 15px;
+  background: #dda652;
   color: white;
+  font-size: 25;
 }
 
 .fa-google {
   border-radius: 100px;
-  background: #794a43;
+  background: rgb(194, 72, 72);
   color: white;
+  font-size: 20;
+}
+
+.fa-github {
+  border-radius: 20px;
+  background: rgb(70, 63, 63);
+  color: white;
+  font-size: 25;
 }
 
 .navbar {
