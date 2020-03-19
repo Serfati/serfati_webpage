@@ -94,8 +94,8 @@ html {
   content: "";
   position: absolute;
   height: 10px;
-  border-bottom: 3px solid rgb(0, 0, 0);
-  border-top: 3px solid rgb(0, 0, 0);
+  border-bottom: 3px solid rgba(10, 70, 45, 0.568);
+  border-top: 3px solid rgba(49, 83, 70, 0.719);
   top: 0;
   width: 600px;
 }
@@ -146,7 +146,7 @@ table.blueTable thead th {
   font-family: "Fira Code", monospace;
   font-size: 15px;
   font-weight: bold;
-  color: #710500;
+  color: #ffffff;
   text-align: center;
   border-left: 2px solid #D0E4F5;
   width: 0.1%
