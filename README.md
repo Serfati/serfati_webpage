@@ -1,18 +1,19 @@
-# AS-personal web page
+## serfati-webpage
 This is a sample HTML5 and CSS3 individual project for
 Web Development Enviroment Course 
 A simple website to tell the world a little bit about myself
 
-- Name :Avihai Serfati
-- ID : 204520803
+- name : Avihai Serfati
+- id : 204520803
 
-- Clone Address : https://github.com/serfati/serfati_webpage/
+- [clone here](https://github.com/serfati/serfati_webpage.git)
 
-- URL : [Click Here](https://serfati.github.io/serfati_webpage/)
+- url : [click here](https://serfati.github.io/serfati_webpage/)
 
-#### Screenshot
+### Screenshot
 
 ![img](https://picresize.com/images/rsz_screenshot_from_2020-03-19_16-56-50.jpg)
+
 ## MIT License
 
 The following directories and their contents are Copyright Tom Preston-Werner.
