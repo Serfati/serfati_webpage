@@ -1,18 +1,16 @@
 ## serfati-webpage
 This is a sample HTML5 and CSS3 individual project for
-Web Development Enviroment Course 
+Web Development Environment Course 
 A simple website to tell the world a little bit about myself
 
 - name : Avihai Serfati
 - id : 204520803
-
-- [clone here](https://github.com/serfati/serfati_webpage.git)
-
+- clone : [click here](https://github.com/serfati/serfati_webpage.git)
 - url : [click here](https://serfati.github.io/serfati_webpage/)
 
 ### Screenshot
 
-![img](https://picresize.com/images/rsz_screenshot_from_2020-03-19_16-56-50.jpg)
+![img](https://serving.photos.photobox.com/7836036507f8ed0cbc9f05bda34fcff9f435d6c432674b35fb824b1814d9452fa56f84f5.jpg)
 
 ## MIT License
 

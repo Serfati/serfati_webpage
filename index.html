@@ -23,6 +23,12 @@
 
 <body>
     <div class="navbar">
+        <a href="#"><br>
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6f%2FWikivoyage_fantasy_balloon_logo4_lenkastabilo_blues_favicon.svg%2F2000px-Wikivoyage_fantasy_balloon_logo4_lenkastabilo_blues_favicon.svg.png&f=1&nofb=1"
+                style="width: 35px;" ,style="height:35px" align="center">
+            <br><br>
+        </a>
+        <a href="#AboutMe"> <i class="fa fa-id-card"></i> About Me</a>
         <a href="#AboutMe"> <i class="fa fa-id-card"></i> About Me</a>
         <a href="#MyPhotos"> <i class="fa fa-camera-retro"></i>My Photos</a>
         <a href="#MyPlaylist"><i class="fa fa-music"></i>My Playlist</a>
@@ -120,7 +126,7 @@
                     allowfullscreen></iframe></p>
 
             <h2 style="text-align:center" id="Like"> <br>
-                <p class="subtitle fancy"><span>Like</span><br><br><br></p>
+                <p class="subtitle fancy"><span style="font-family:'monospace'">Give me Like</span><br><br><br></p>
             </h2>
 
             <p align="center"><iframe
@@ -280,15 +286,29 @@
         <h2 style="text-align:center" id="ContactMe">
             <p class="subtitle fancy"><span style="font-family:'monospace'">Contact Me</span></p>
         </h2>
-        <h3 style="font-family:'monospace'" align="center"> send me e-mail </h3>
+        <h3 style="font-family:'monospace'" align="center"> send me an e-mail </h3>
 
-        <form action="mailto:avihaipp@gmail.com" method="post" enctype="text/plain">
+        <form action="mailto:avihaipp@gmail.com" method="post" enctype="text/plain" autocomplete="on">
             <p align="center"><i class="fa fa-user" aria-hidden="true"></i>
-                Name:&nbsp;&nbsp;&nbsp; <input type="text" name="name" size="40"><br>
-                <i class="fa fa-envelope" aria-hidden="true"></i> Email:&nbsp;&nbsp;&nbsp; <input type="text"
-                    name="mail" size="40"><br>
-                <i class="fa fa-comment" aria-hidden="false"></i>Message:&nbsp;<input type="text" name="comment"
-                    size="40"><br><br>
+                Name:&nbsp;&nbsp;&nbsp; <input placeholder="your name" type="text" name="name" size="40"><br>
+                <i class="fa fa-envelope" aria-hidden="true"></i> Email:&nbsp;&nbsp;&nbsp; <input
+                    placeholder="your email" type="text" required name="mail" size="40"><br>
+                <i class="fa fa-comment" aria-hidden="false"></i>Message:&nbsp;<input placeholder="..." required
+                    type="text" name="comment" size="40">
+                <select name=";">
+                    <option value="😎">😎</option>
+                    <option value="😍">😍</option>
+                    <option value="😋">😋</option>
+                    <option value="🤩">🤩</option>
+                    <option value="😜">😜</option>
+                    <option value="😀">😀</option>
+                    <option value="😁">😁</option>
+                    <option value="😂">😂</option>
+                    <option value="😃">😃</option>
+                    <option value="😄">😄</option>
+                    <option value="😅">😅</option>
+                </select>
+                <br> <br>
 
                 <button class="contact1-form-btn">
                     <span>
