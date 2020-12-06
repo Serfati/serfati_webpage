@@ -4,7 +4,6 @@ Web Development Environment Course
 A simple website to tell the world a little bit about myself
 
 - name : Avihai Serfati
-- id : 204520803
 - clone : [click here](https://github.com/serfati/serfati_webpage.git)
 - url : [click here](https://serfati.github.io/serfati_webpage/)
 
